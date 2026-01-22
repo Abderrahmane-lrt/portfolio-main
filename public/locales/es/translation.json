@@ -1,0 +1,109 @@
+{
+    "Home": "Inicio",
+    "About": "Sobre mí",
+    "Skills": "Habilidades",
+    "Projects": "Proyectos",
+    "Education & Experience": "Educación y Experiencia",
+    "Contact Me": "Contáctame",
+    "Full Stack Developer": "Desarrollador Full Stack",
+    "bio": "Hola, soy Abderrahmane Lartab, un apasionado Desarrollador Web Full-Stack de Casablanca, Marruecos. Construyo aplicaciones web modernas y escalables que convierten ideas en experiencias digitales.",
+    "Contact": "Contacto",
+    "View CV": "Ver CV",
+    "Scroll Down": "Desplazar hacia abajo",
+    "About Me": "Sobre mí",
+    "Web Developer": "Desarrollador Web",
+    "IT Support Specialist": "Especialista en Soporte Técnico",
+    "about_paragraph_1": "Como Desarrollador Web Full-Stack Junior y Técnico en Informática de Casablanca, Marruecos, me especializo en construir aplicaciones modernas y escalables con React y Laravel. Disfruto creando soluciones digitales completas — desde interfaces front-end intuitivas hasta APIs back-end seguras y eficientes. Mi experiencia en mantenimiento de computadoras y soporte de sistemas fortalece mi comprensión de cómo el software y el hardware trabajan juntos para ofrecer resultados confiables.",
+    "about_paragraph_2": "Impulsado por la curiosidad y el crecimiento continuo, siempre estoy explorando nuevas tecnologías y mejores prácticas para mantenerme a la vanguardia en un panorama tecnológico en rápida evolución. Mi trabajo refleja un fuerte equilibrio entre código limpio, experiencia de usuario y rendimiento, y me esfuerzo por construir aplicaciones que no solo sean funcionales y elegantes, sino también significativas e impactantes — ya sea trabajando de forma independiente o dentro de un equipo.",
+    "Skills & Technologies": "Habilidades y Tecnologías",
+    "Frontend": "Frontend",
+    "Backend": "Backend",
+    "Databases": "Bases de datos",
+    "Technologies": "Tecnologías",
+    "Each project is a unique piece of development": "Cada proyecto es una pieza única de desarrollo",
+    "Open Project": "Abrir Proyecto",
+    "mihna_description": "Una plataforma de empleo full-stack que conecta candidatos y empresas con listados de trabajos, seguimiento de aplicaciones, notificaciones en tiempo real y soporte de chatbot con IA.",
+    "okad_description": "Una plataforma escolar responsive y optimizada para SEO que muestra los valores, actividades y eventos de la escuela con una interfaz de usuario limpia y dinámica.",
+    "youchef_description": "Una Plataforma de Recetas Colaborativa que permite a los usuarios compartir y descubrir recetas en tiempo real. Diseñada con una interfaz moderna y responsive para una experiencia culinaria atractiva y fluida.",
+    "foody_description": "Un Sitio Web de Restaurante Elegante y Responsive. Moderno y visualmente atractivo, diseñado para ofrecer una experiencia de usuario intuitiva y fluida.",
+    "parksmart_description": "Un sistema inteligente de gestión de estacionamiento que ayuda a los conductores a encontrar plazas de aparcamiento disponibles en tiempo real y permite a los operadores gestionar sus instalaciones de manera eficiente.",
+    "pipeline_description": "Una herramienta integral de gestión de pipeline CRM diseñada para optimizar procesos de ventas, rastrear prospectos y mejorar flujos de trabajo de gestión de relaciones con clientes.",
+    "technews_description": "Plataforma moderna de noticias tech con actualizaciones en tiempo real.",
+    "technews_title": "TechNews - Plataforma de Noticias Tecnológicas",
+    "Technologies Used": "Tecnologías Utilizadas",
+    "Key Features": "Características Clave",
+    "Real-time news updates from multiple sources": "Actualizaciones de noticias en tiempo real de múltiples fuentes",
+    "Categorized technology articles": "Artículos de tecnología categorizados",
+    "Responsive design for all devices": "Diseño responsivo para todos los dispositivos",
+    "Search and filter functionality": "Funcionalidad de búsqueda y filtrado",
+    "Bookmark and save articles": "Marcar y guardar artículos",
+    "Education": "Educación",
+    "Experience": "Experiencia",
+    "education": {
+      "items": [
+        {
+          "title": "Programa de Desarrollo Web Full Stack",
+          "institution": "OFPPT ISAG AL Fida",
+          "location": "Casablanca, Marruecos",
+          "period": "En progreso"
+        },
+        {
+          "title": "Diploma de Bachillerato (Ciencias Físicas)",
+          "institution": "Lycée Homan El Fatwaki",
+          "location": "Casablanca, Marruecos",
+          "period": "2024"
+        }
+      ]
+    },
+    "experience": {
+      "items": [
+        {
+          "title": "Participación en Hackathon 2024",
+          "institution": "OFPPT - ISGI",
+          "period": "05/2024 - 05/2024",
+          "description": "Crear una plataforma de estacionamiento durante el hackathon.\\nRecompensa: 6º premio"
+        }
+      ]
+    },
+    "Certificates": "Certificados",
+    "Open": "Abrir",
+    "certificates": {
+      "items": [
+        {
+          "name": "Bootcamp Git & Github",
+          "photo": "Certif1.png",
+          "platform": "Udemy",
+          "owner": "Udemy",
+          "technologies": ["Git", "Github"],
+          "date": "2025"
+        },
+        {
+          "name": "Curso React",
+          "photo": "Certif2.png",
+          "platform": "Meta",
+          "owner": "Meta",
+          "technologies": ["React", "JavaScript"],
+          "date": "2025"
+        },
+        {
+          "name": "Introducción a Docker",
+          "photo": "Certif3.png",
+          "platform": "KodeCloud",
+          "owner": "KodeCloud",
+          "technologies": ["Docker", "Contenedores"],
+          "date": "2025"
+        }
+      ]
+    },
+    "Resume": "Currículum",
+    "Available for work": "Disponible para trabajar",
+    "Let's build something": "Construyamos algo",
+    "incredible together!": "increíble juntos!",
+    "2025 Mohamed Maimoune. All rights reserved": "2025 Abderrahmane Lartab. Todos los derechos reservados",
+    "Let's start a project together": "Empecemos un proyecto juntos",
+    "Name": "Nombre",
+    "Email": "Correo electrónico",
+    "Message": "Mensaje",
+    "Text Message...": "Escribe tu mensaje...",
+    "Send Message": "Enviar mensaje"
+  }

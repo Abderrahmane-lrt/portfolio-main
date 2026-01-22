@@ -1,0 +1,138 @@
+{
+    "Home": "Start",
+    "About": "Über mich",
+    "Skills": "Fähigkeiten",
+    "Projects": "Projekte",
+    "Education & Experience": "Ausbildung und Erfahrung",
+    "Contact Me": "Kontakt",
+    "Full Stack Developer": "Full-Stack-Entwickler",
+    "bio": "Hallo, ich bin Abderrahmane Lartab, ein leidenschaftlicher Full-Stack-Webentwickler aus Casablanca, Marokko. Ich entwickle moderne und skalierbare Webanwendungen, die Ideen in digitale Erlebnisse verwandeln.",
+    "Contact": "Kontakt",
+    "View CV": "Lebenslauf öffnen",
+    "Scroll Down": "Nach unten scrollen",
+    "About Me": "Über mich",
+    "Web Developer": "Webentwickler",
+    "IT Support Specialist": "IT-Support-Spezialist",
+    "about_paragraph_1": "Als Junior Full-Stack-Webentwickler und IT-Techniker aus Casablanca, Marokko, spezialisiere ich mich auf den Bau moderner, skalierbarer Anwendungen mit React und Laravel. Ich genieße es, komplette digitale Lösungen zu entwickeln — von intuitiven Front-End-Oberflächen bis hin zu sicheren und effizienten Back-End-APIs. Mein Hintergrund in Computerwartung und Systemunterstützung stärkt mein Verständnis dafür, wie Software und Hardware zusammenarbeiten, um zuverlässige Ergebnisse zu liefern.",
+    "about_paragraph_2": "Angetrieben von Neugier und kontinuierlichem Wachstum, erkunde ich ständig neue Technologien und Best Practices, um in einer sich schnell entwickelnden Technologielandschaft vorne zu bleiben. Meine Arbeit spiegelt eine starke Balance zwischen sauberem Code, Benutzererfahrung und Leistung wider, und ich strebe danach, Anwendungen zu bauen, die nicht nur funktional und elegant sind, sondern auch bedeutungsvoll und wirkungsvoll — egal ob ich alleine oder innerhalb eines Teams arbeite.",
+    "Skills & Technologies": "Fähigkeiten & Technologien",
+    "Frontend": "Frontend",
+    "Backend": "Backend",
+    "Databases": "Datenbanken",
+    "Technologies": "Technologien",
+    "Each project is a unique piece of development": "Jedes Projekt ist ein einzigartiges Entwicklungswerk",
+    "Open Project": "Projekt Öffnen",
+    "mihna_description": "Eine Full-Stack-Jobplattform, die Kandidaten und Unternehmen mit Stellenangeboten, Bewerbungstracking, Echtzeit-Benachrichtigungen und KI-Chatbot-Support verbindet.",
+    "okad_description": "Eine responsive und SEO-optimierte Schulplattform, die Schulwerte, Aktivitäten und Veranstaltungen mit einer sauberen, dynamischen Benutzeroberfläche präsentiert.",
+    "youchef_description": "Eine kollaborative Rezeptplattform, die es Benutzern ermöglicht, Rezepte in Echtzeit zu teilen und zu entdecken. Entworfen mit einer modernen, responsiven Benutzeroberfläche für ein ansprechendes und nahtloses kulinarisches Erlebnis.",
+    "foody_description": "Eine stylische und responsive Restaurant-Website. Modern und visuell ansprechend gestaltet, um ein intuitives und nahtloses Benutzererlebnis zu bieten.",
+    "parksmart_description": "Ein intelligentes Parkverwaltungssystem, das Fahrern hilft, verfügbare Parkplätze in Echtzeit zu finden und Parkplatzbetreibern ermöglicht, ihre Einrichtungen effizient zu verwalten.",
+    "pipeline_description": "Ein umfassendes CRM-Pipeline-Management-Tool, das entwickelt wurde, um Vertriebsprozesse zu optimieren, Leads zu verfolgen und Kundenbeziehungsmanagement-Workflows zu verbessern.",
+    "technews_description": "Moderne Tech-News-Plattform mit Echtzeit-Updates.",
+    "technews_title": "TechNews - Technologie-Nachrichtenplattform",
+    "Technologies Used": "Verwendete Technologien",
+    "Key Features": "Hauptfunktionen",
+    "Real-time news updates from multiple sources": "Echtzeit-Nachrichten-Updates von mehreren Quellen",
+    "Categorized technology articles": "Kategorisierte Technologie-Artikel",
+    "Responsive design for all devices": "Responsives Design für alle Geräte",
+    "Search and filter functionality": "Such- und Filterfunktionalität",
+    "Bookmark and save articles": "Artikel markieren und speichern",
+    "Education": "Bildung",
+    "Experience": "Erfahrung",
+    "education": {
+      "items": [
+        {
+          "title": "Full Stack Web Development Programm",
+          "institution": "OFPPT ISAG AL Fida",
+          "location": "Casablanca, Marokko",
+          "period": "In Bearbeitung"
+        },
+        {
+          "title": "High School Diploma (Physical Sciences)",
+          "institution": "Lycée Homan El Fatwaki",
+          "location": "Casablanca, Marokko",
+          "period": "2024"
+        }
+      ]
+    },
+    "experience": {
+      "items": [
+        {
+          "title": "Teilnahme am 2024 Hackathon",
+          "institution": "OFPPT - ISGI",
+          "period": "05/2024 - 05/2024",
+          "description": "Erstellung einer Parkplattform während des Hackathons.\\nBelohnung: 6. Preis"
+        }
+      ]
+    },
+    "Certificates": "Zertifikate",
+    "Open": "Öffnen",
+    "certificates": {
+      "items": [
+        {
+          "name": "Git & Github Bootcamp",
+          "photo": "Certif1.png",
+          "platform": "Udemy",
+          "owner": "Udemy",
+          "technologies": ["Git", "Github"],
+          "date": "2025"
+        },
+        {
+          "name": "React Kurs",
+          "photo": "Certif2.png",
+          "platform": "Meta",
+          "owner": "Meta",
+          "technologies": ["React", "JavaScript"],
+          "date": "2025"
+        },
+        {
+          "name": "Einführung in Docker",
+          "photo": "Certif3.png",
+          "platform": "KodeCloud",
+          "owner": "KodeCloud",
+          "technologies": ["Docker", "Container"],
+          "date": "2025"
+        }
+      ]
+    },
+    "Resume": "Lebenslauf",
+    "Available for work": "Verfügbar für Arbeit",
+    "Let's build something": "Lass uns etwas",
+    "incredible together!": "Unglaubliches zusammen aufbauen!",
+    "2025 Mohamed Maimoune. All rights reserved": "2025 Abderrahmane Lartab. Alle Rechte vorbehalten",
+    "Let's start a project together": "Lass uns ein Projekt zusammen starten",
+    "Name": "Name",
+    "Email": "E-Mail",
+    "Message": "Nachricht",
+    "Text Message...": "Nachricht schreiben...",
+    "Send Message": "Nachricht senden",
+    "Copyright 2025 · Made by": "Copyright 2025 · Erstellt von",
+    "Coming Soon": "Demnächst verfügbar",
+    "Something new is coming — stay tuned.": "Etwas Neues kommt — bleiben Sie dran.",
+    "Job Platform Connecting Candidates & Employers": "Job-Plattform, die Kandidaten und Arbeitgeber verbindet",
+    "mihna_description_1": "Vor Mihna standen Jobsuchende und Arbeitgeber häufig vor fragmentierten Rekrutierungsprozessen – Kandidaten hatten Schwierigkeiten, passende Stellen zu finden, während Recruiter Probleme hatten, Bewerbungen effektiv zu verwalten und nachzuverfolgen. Kommunikationslücken und das Fehlen intelligenter Tools machten die Einstellung langsam und ineffizient.",
+    "mihna_description_2": "Mihna ist eine Full-Stack-Webplattform, die diese Lücke schließt, indem sie Kandidaten und Arbeitgeber über ein intelligentes, optimiertes System verbindet. Sie bietet automatisiertes Bewerbungs­tracking, Echtzeit-Benachrichtigungen und einen integrierten Chatbot-Assistenten — und hilft beiden Seiten, Zeit zu sparen, organisiert zu bleiben und smartere Karriereentscheidungen zu treffen.",
+    "The Challenge": "Die Herausforderung",
+    "mihna_challenge": "Wie können wir ein nahtloses Matching-Erlebnis schaffen und gleichzeitig die Plattform einfach und effizient für Kandidaten wie Unternehmen halten? Unser Ziel war nicht nur, bestehende Jobportale zu reproduzieren, sondern darüber hinauszugehen : intelligente Empfehlungen, vereinfachte Bewerbungen und Echtzeit-Interaktion zwischen Talenten und Arbeitgebern anzubieten.",
+    "Platform Features & Functionalities": "Plattformfunktionen & Funktionalitäten",
+    "Candidate Features & Functionalities": "Funktionen & Funktionalitäten für Kandidaten",
+    "Applying For a Job": "Für einen Job bewerben",
+    "Company Features & Functionalities": "Funktionen & Funktionalitäten für Unternehmen",
+    "View On LinkedIn": "Auf LinkedIn anzeigen",
+    "Explore More Work": "Weitere Arbeiten entdecken",
+    "Authentication Page": "Authentifizierungsseite",
+    "Company dashboard": "Unternehmensdashboard",
+    "Company Profile Page": "Unternehmensprofil-Seite",
+    "Analysis Page": "Analyse­seite",
+    "Job Applications Page Groups by Job": "Bewerbungsseite gruppiert nach Stellenangebot",
+    "Adding a job offer": "Hinzufügen eines Stellenangebots",
+    "Confirmation of data for adding a job offer": "Bestätigung der Daten für das Hinzufügen eines Stellenangebots",
+    "Form to edit the job": "Formular zur Bearbeitung des Stellenangebots",
+    "Home Page": "Startseite",
+    "Profile Page": "Profilseite",
+    "Job Offers Page": "Seite mit Stellenangeboten",
+    "Mihna Chatbot": "Mihna-Chatbot",
+    "Job Offer Details Page": "Seite mit Stellenangebots-Details",
+    "Statistics and testimonials sections": "Abschnitte Statistiken und Testimonials",
+    "Top Companies and Popular Jobs sections": "Abschnitte Top-Unternehmen und beliebte Jobs"    
+}
