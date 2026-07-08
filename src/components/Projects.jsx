@@ -10,6 +10,7 @@ import {
 import { ParkSmart } from "./projects/ParkSmart";
 import { Pipeline } from "./projects/Pipeline";
 import { TechNews } from "./projects/TechNewsTemp";
+import { Somadix } from "./projects/Somadix";
 import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet";
 import { useTranslation } from "react-i18next";
 import AnimatedContent from "./flowBits/AnimatedContent";
@@ -39,6 +40,13 @@ export const Projects = () => {
       date: "12/2024 - 01/2025",
       image: "/photos/projects/parksmart/parksmart.png",
       page: <ParkSmart />,
+    },
+    {
+      name: "Somadix",
+      description: t("somadix_description"),
+      date: "03/2025 - 04/2025",
+      image: "/photos/projects/somadix/somadix.png",
+      page: <Somadix />,
     }
   ];
 
